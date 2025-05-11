@@ -1,9 +1,8 @@
 "use client";
 import Image from "next/image";
-import { Button } from "@/components/ui/button";
 import { ModeToggle } from "@/components/mode-toggle";
 import { ClientOnly } from "@/components/client-only";
-import { Globe, Github, Linkedin, Mail, X } from "lucide-react";
+import { Globe } from "lucide-react";
 import { useEffect, useState } from "react";
 
 function LocationBlock() {
@@ -39,12 +38,12 @@ export default function Home() {
           <div className="max-w-xl w-full space-y-10">
             <div className="space-y-2">
               <div className="font-mono font-bold text-2xl md:text-3xl text-primary flex items-center gap-2">
-                HEY, I'M KIRILL <span className="text-lg">👋</span>
+                HEY, I&apos;M KIRILL <span className="text-lg">👋</span>
               </div>
               <h1 className="text-5xl md:text-6xl font-extrabold font-mono leading-tight flex items-center gap-3 tracking-tight text-primary">
               </h1>
               <p className="text-xl text-foreground leading-relaxed mb-4">
-                I'm a high school student (graduating this year) passionate about building cool things with code :)
+                I&apos;m a high school student (graduating this year) passionate about building cool things with code :)
               </p>
               <p className="text-lg text-foreground mb-4">
                 Currently working on <a href="https://zeraku.com" target="_blank" rel="noopener noreferrer" className="hover:underline">@Zeraku</a> — platform is where developers turn their learning plans into action — upload roadmaps, track every step, and grow with clarity.
