@@ -75,7 +75,7 @@ To run a local copy of this project, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/)[djessicatony]/[my-portfolio].git 
+    git clone https://github.com/djessicatony/my-portfolio.git
     ```
 2.  **Install dependencies:**
     ```sh
