@@ -46,7 +46,7 @@ export default function Home() {
                 I&apos;m a high school student (graduating this year) passionate about building cool things with code :)
               </p>
               <p className="text-lg text-foreground mb-4">
-                Currently working on <a href="https://zeraku.com" target="_blank" rel="noopener noreferrer" className="hover:underline">@Zeraku</a> — platform is where developers turn their learning plans into action — upload roadmaps, track every step, and grow with clarity.
+                Currently working on <a href="https://zeraku.com" target="_blank" rel="noopener noreferrer" className="hover:underline">@Aerovalent</a> — Never lose tasks from communications again.
               </p>
               <p className="text-lg text-foreground mb-4">
                 Tech I use: <span className="inline-flex items-center gap-1">🍃 Spring Boot</span>, <span className="inline-flex items-center gap-1">🚀 Next.js</span>
