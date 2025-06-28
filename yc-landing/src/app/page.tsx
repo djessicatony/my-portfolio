@@ -46,10 +46,10 @@ export default function Home() {
                 I&apos;m a high school student (graduating this year) passionate about building cool things with code :)
               </p>
               <p className="text-lg text-foreground mb-4">
-                Currently working on <a href="https://zeraku.com" target="_blank" rel="noopener noreferrer" className="hover:underline">@Aerovalent</a> — Never lose tasks from communications again.
+                Currently working on @Aerovalent — An AI assistant that turns the chaos of your emails and messages into an organized list.
               </p>
               <p className="text-lg text-foreground mb-4">
-                Tech I use: <span className="inline-flex items-center gap-1">🍃 Spring Boot</span>, <span className="inline-flex items-center gap-1">🚀 Next.js</span>
+                Tech I use: <span className="inline-flex items-center gap-1">🐍 Python</span>, <span className="inline-flex items-center gap-1">🚀 Next.js</span>
               </p>
             </div>
             <div className="flex flex-wrap gap-4 mt-6 mb-4">
